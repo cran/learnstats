@@ -5,7 +5,7 @@
 #' @name stats250
 NULL
 
-#' @import RcmdrPlugin.epack
+#' @import Rcmdr
 NULL
 
 #' @import ggplot2

@@ -62,12 +62,5 @@ s_introbinom<-function(){
   shiny::runApp(system.file("introbinomial", package="learnstats"),quiet=TRUE)
 }
 
-#' Run the Uniform shiny app.
-#'  @export
-#' @examples
-#' \dontrun{s_introbinom()}
-s_uniform<-function(){
-  rmarkdown::run(system.file("uniform_two/uniform.Rmd",package="learnstats"))
-}
 
 

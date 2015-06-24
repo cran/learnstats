@@ -1,6 +1,5 @@
-#' Load R Commander with the time series R Commander Plugin.
+#' Load R Commander
 #' This way, run Rcmdr() and the environment will be ready.
-#' @import RcmdrPlugin.epack
 #' @export
 #' @examples
 #' \dontrun{Rcmdr()}
